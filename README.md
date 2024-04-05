@@ -18,8 +18,6 @@ A Google Sheets OpenAI wrapper tool that makes vulnerability reporting and publi
 - And it should give you the output
 
 
-To do this on scale, simply drag the cell into the number of cells you want 
-
 **Preview:**
 https://github.com/chrisdabre/CyberGPT/assets/83912332/eeeafe4c-4e55-4e98-8404-145fb0977863
 
